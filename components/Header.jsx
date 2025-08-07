@@ -1,3 +1,4 @@
+import Entry from "./Entry"
 export default function Header(){
     return(
         <header>
