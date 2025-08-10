@@ -1,6 +1,5 @@
 
 export default function Entry(props) {
-    console.log(props)
     return (
         <article className="journal-entry">
             <div className="main-image-container">
@@ -17,7 +16,7 @@ export default function Entry(props) {
                     alt="map marker icon"
                 />
                 <span className="country">{props.country}</span>
-                <a href={props.googleMapsLInk}>View on Google Maps</a>
+                <a href={props.googleMapsLink}>View on Google Maps</a>
                 <h2 className="entry-title">{props.title}</h2>
                 <p className="trip-dates">{props.dates}</p>
                 <p className="entry-text">{props.text}</p>
