@@ -14,7 +14,7 @@ A beautiful, responsive travel journal built with React and Vite that showcases 
 
 ![Travel Journal Preview](https://img.shields.io/badge/Live_Demo-Available-green)
 
-Check out the live demo: [Travel Journal Demo](#) *(Add your deployed link here)*
+Check out the live demo: [Travel Journal Demo](https://mahadi24t.github.io/Travel_Journal/) 
 
 ## 📸 Screenshots
 
